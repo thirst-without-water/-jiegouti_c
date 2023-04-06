@@ -65,3 +65,4 @@ int main()
 	
 	return 0;
 }
+二.结构体成员访问
